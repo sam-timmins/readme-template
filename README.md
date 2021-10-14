@@ -33,9 +33,9 @@
         * [Bugs](#bugs)
         * [Unfixed Bugs](#unfixed-bugs)
     * [Deployment](#deployment)
-        *[Clone the Repo](#clone-the-repo-with-gitpod)
-        *[Set up your Workspace](#set-up-your-workspace)
-        *[Deployment via Heroku](#deployment-via-heroku)
+        * [Clone the Repo](#clone-the-repo-with-gitpod)
+        * [Set up your Workspace](#set-up-your-workspace)
+        * [Deployment via Heroku](#deployment-via-heroku)
     * [Credits](#credits)
 # UX
 
