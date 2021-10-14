@@ -40,25 +40,25 @@
 # UX
 
 ## User Goals
-****** DESCRIPTIONS OF END RESULTS THAT USERS WANT TO REACH ******
+<!-- DESCRIPTIONS OF END RESULTS THAT USERS WANT TO REACH -->
 
 ## User Stories
-****** INTERACTIONS THAT THE USER EXPECTS TO GO THROUGH TO COMPLETE THEIR GOALS *******
+<!-- INTERACTIONS THAT THE USER EXPECTS TO GO THROUGH TO COMPLETE THEIR GOALS -->
 
 * As a user, I want to......
 
 ## User Requirements and Expectations
 ### Requirements
-****** WHAT THE USER REQUIRES FOR THE PRODUCT TO BE SUCCESSFUL ********
+<!-- WHAT THE USER REQUIRES FOR THE PRODUCT TO BE SUCCESSFUL -->
 
 ### Expectations
-****** WHAT THE USER EXPECTS FROM THE PRODUCT *******
+<!-- WHAT THE USER EXPECTS FROM THE PRODUCT -->
 
 * I expect to.....
 
 
 ## Site owners Goals
-****** OUTLINE OF STRUCTURE AND FEASIBILITY OF USER GOALS/ STORIES
+<!-- OUTLINE OF STRUCTURE AND FEASIBILITY OF USER GOALS/ STORIES -->
 
 
 ## Strategy
@@ -84,8 +84,8 @@ The outcome is calculated by combining the scores from the *Importance* and *Fea
 
 ### Strategy Description
 |Item Description | Importance Score | Feasibility Score | Outcome |
-| --- | ----------| -----------| ----------|
-| | | | |
+| --------------- | ----------| -----------| ----------|
+| <!-- ADD ITEM -->| <!-- ADD IMPORTANCE SCORE --> | <!-- ADD FESIBILITY SCORE --> | <!-- TOTAL OF IMPORTANCE & FEASIBILITY --> |
 
 
 
@@ -153,7 +153,6 @@ The outcome is calculated by combining the scores from the *Importance* and *Fea
 
 
 ## Libraries and Frameworks
-
 
 
 
@@ -228,7 +227,7 @@ The outcome is calculated by combining the scores from the *Importance* and *Fea
 
 # Deployment
 
-********* LIVE LINK *********
+<!-- ADD LIVE LINK HERE -->
 
 
  
@@ -259,7 +258,7 @@ The outcome is calculated by combining the scores from the *Importance* and *Fea
 * Select the **Settings** tab
 * Click on the **Reveal Config Vars** button
 
-********* ADD OR ADJUST CONFIGS **********
+<!-- ADD OR ADJUST CONFIGS -->
 
 * In the textbox with KEY as the placeholder, enter *CREDS*
 * In the textbox with VALUE as the placeholder, enter the content from the creds.json file and press **Add**
@@ -270,7 +269,7 @@ The outcome is calculated by combining the scores from the *Importance* and *Fea
 * Click on **Add Buildpack** again, select **node.js** and then save changes
 * When they are on the dashboard, ensure that python is above node.js on the list
 
-********* END OF CONFIGS **********
+<!-- END OF CONFIGS -->
 
 * Open the **Deploy** tab
 * In the deployment method section, select **GitHub** and confirm the connection.
