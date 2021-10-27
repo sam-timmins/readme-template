@@ -243,10 +243,9 @@ The outcome is calculated by combining the scores from the *Importance* and *Fea
 * Open your [GitPod workspaces](https://gitpod.io/workspaces "GitPod workspaces")
 * Select the three dots to the right-hand side of your workspace and select **Pin**
 
-
+<!-- Add as required -->
+<!--
 ### Set up your Workspace
-
-
 
 ### Deployment via Heroku
 
@@ -257,9 +256,11 @@ The outcome is calculated by combining the scores from the *Importance* and *Fea
 * A Heroku app has now been created and the **Deploy** tab is opened. 
 * Select the **Settings** tab
 * Click on the **Reveal Config Vars** button
+-->
+
 
 <!-- ADD OR ADJUST CONFIGS -->
-
+<!--
 * In the textbox with KEY as the placeholder, enter *CREDS*
 * In the textbox with VALUE as the placeholder, enter the content from the creds.json file and press **Add**
 * In the textbox with KEY as the placeholder, enter *PORT*
@@ -268,16 +269,18 @@ The outcome is calculated by combining the scores from the *Importance* and *Fea
 * In the buildpacks section of the settings tab, click on **Add Buildpack**, select **python** and then save changes
 * Click on **Add Buildpack** again, select **node.js** and then save changes
 * When they are on the dashboard, ensure that python is above node.js on the list
+-->
+
 
 <!-- END OF CONFIGS -->
-
+<!--
 * Open the **Deploy** tab
 * In the deployment method section, select **GitHub** and confirm the connection.
 * Enter the repo-name into the text box and click **Search**. When the correct repo appears below, click **Connect**
 * In the Automatic deploys section, click **Enable Automatic Deploys**. This updates every time GitHub code is pushed
 * To complete the process click on the **Deploy Brach** button in the Manual deploy section, this will take a few seconds to complete while Heroku builds the app
 * A message will appear informing you that the app was successfully deployed and a **View** button will bring you to the live site
-
+-->
 
 \
 &nbsp;
